@@ -1,0 +1,70 @@
+{
+  "title": "Eldery Watcher",
+  "tagline": "Tecnologia para o bem-estar e segurança dos idosos",
+  "sections": [
+    {
+      "id": "conceito",
+      "title": "O Conceito",
+      "content": "O Eldery Watcher é um relógio inteligente projetado especificamente para idosos, combinando monitoramento de saúde e segurança em um dispositivo elegante e fácil de usar. Desenvolvido com foco na qualidade de vida e independência, o dispositivo permite que cuidadores e familiares acompanhem remotamente os sinais vitais e a localização do usuário."
+    },
+    {
+      "id": "design",
+      "title": "Design",
+      "content": "O relógio apresenta um design simples e funcional. A caixa do relógio possui um formato retangular com cantos arredondados, buscando um visual moderno e confortável. A pulseira é integrada à caixa, formando uma peça única com encaixe discreto, feita de material flexível para uso contínuo. Na parte frontal, o mostrador exibe informações essenciais, com destaque para o ícone de coração, representando a funcionalidade principal de monitoramento cardíaco."
+    },
+    {
+      "id": "funcionalidades",
+      "title": "Funcionalidades",
+      "features": [
+        {
+          "name": "Monitoramento Cardíaco",
+          "description": "Sensores ópticos na parte traseira do relógio medem continuamente a frequência cardíaca do usuário."
+        },
+        {
+          "name": "Localização em Tempo Real",
+          "description": "Sistema de GPS integrado permite que cuidadores acompanhem a localização do usuário através do aplicativo."
+        },
+        {
+          "name": "Aplicativo Conectado",
+          "description": "Interface intuitiva para visualização de dados de saúde e configuração de alertas personalizados."
+        },
+        {
+          "name": "Carregamento Magnético",
+          "description": "Sistema prático que facilita o encaixe do carregador sem a necessidade de conectar cabos em pequenas portas."
+        },
+        {
+          "name": "Acompanhamento por Cuidador",
+          "description": "Compartilhamento de dados de saúde e localização com cuidadores ou familiares através do aplicativo."
+        }
+      ]
+    },
+    {
+      "id": "tecnologia",
+      "title": "Tecnologia",
+      "content": "Na parte traseira da caixa do relógio, encontram-se os 'Detectores de pulsação', sensores responsáveis por medir a frequência cardíaca e outros sinais vitais. Ao lado está o ponto de conexão para o 'Carregador Magnético', um sistema que facilita o carregamento da bateria. O dispositivo se conecta a um aplicativo que permite o controle e a visualização dos dados coletados, incluindo funcionalidades de localização importantes para a segurança do idoso."
+    },
+    {
+      "id": "objetivo",
+      "title": "Objetivo",
+      "content": "O objetivo geral do Eldery Watcher é usar a tecnologia para facilitar o acesso do idoso a cuidados, conectando-o a serviços de emergência, teleconsultas ou lembretes de medicação gerenciados pelo aplicativo. O dispositivo proporciona tranquilidade tanto para os usuários quanto para seus cuidadores, permitindo monitoramento remoto e intervenção rápida quando necessário."
+    }
+  ],
+  "gallery": [
+    {
+      "id": "frente",
+      "title": "Vista Frontal",
+      "description": "O design frontal do Eldery Watcher, mostrando a tela com o ícone de monitoramento cardíaco.",
+      "image": "eldery_watcher_frente.png"
+    },
+    {
+      "id": "tras",
+      "title": "Vista Traseira",
+      "description": "A parte traseira do dispositivo, com os sensores de pulsação e o conector para carregamento magnético.",
+      "image": "eldery_watcher_tras.png"
+    }
+  ],
+  "footer": {
+    "copyright": "© 2025 Eldery Watcher",
+    "contact": "contato@elderywatcher.com.br"
+  }
+}
